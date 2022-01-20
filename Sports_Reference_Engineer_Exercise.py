@@ -1,7 +1,6 @@
 import pandas as pd
 import json
 import matplotlib.pyplot as plt
-
 import sys
 
 # Used to read in a Json file
@@ -14,7 +13,7 @@ import sys
 # f.close()
 """
 
-# example Json object input with the desired format
+# created an example Json object input with the desired format for testing/ output purposes
 
 json_input = '{"BRO":{"BSN":{"W":10,"L":12},"CHC": {"W":15, "L":7 }},"BSN":{"BRO":{"W":12,"L":10},"CHC": {"W":13, "L":9 }},' \
              '"CHC":{"BRO":{"W":7,"L":15},"BSN": {"W":9, "L":13 }}}'
