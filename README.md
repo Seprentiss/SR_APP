@@ -3,7 +3,7 @@
 
 This is my solution for the Engineering Internship Prompt
 
-I've taken the liberty of using a couple python libraries making things easier (Pandas,Json, and Matplotlib)
+I've taken the liberty of using a couple python libraries to make things easier (Pandas,Json, and Matplotlib)
 
 To start I simply used the json library to read in a json file.
 
@@ -18,7 +18,7 @@ The next thing I had to do was get the correct win value in each cell. At this s
 
 After the for loop ends the data frame is complete and looks as it should.
 
-I wasn't sure if it was required, but I created a sample output using a mock json file and matplotlib to create a table which can be seen below
+I wasn't sure if it was required, but I created a sample output using a mock json file and used the matplotlib library to create a table which can be seen below
 
 ![](Images/SR_output.jpg)
 ### Output Created by example json file
